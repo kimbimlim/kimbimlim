@@ -1,5 +1,5 @@
 ### Hello World 👋
-I'm interested in Numbers, Statistics and Python
+I'm interested in Python
 <!--
 **kimbimlim/kimbimlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
